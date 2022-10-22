@@ -1,0 +1,12 @@
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\bin\Debug\net5.0\MongoDataAccess.deps.json
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\bin\Debug\net5.0\MongoDataAccess.dll
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\bin\Debug\net5.0\MongoDataAccess.pdb
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\obj\Debug\net5.0\MongoDataAccess.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\obj\Debug\net5.0\MongoDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\obj\Debug\net5.0\MongoDataAccess.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\obj\Debug\net5.0\MongoDataAccess.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\obj\Debug\net5.0\MongoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\obj\Debug\net5.0\MongoDataAccess.dll
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\obj\Debug\net5.0\refint\MongoDataAccess.dll
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\obj\Debug\net5.0\MongoDataAccess.pdb
+C:\Users\Douglas\Desktop\ConnectionDataBases\ConnectionDataBases\MongoDataAccess\obj\Debug\net5.0\ref\MongoDataAccess.dll

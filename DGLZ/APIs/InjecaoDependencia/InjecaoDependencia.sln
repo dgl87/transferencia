@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjecaoDependenciaTeste", "InjecaoDependenciaTeste\InjecaoDependenciaTeste.csproj", "{50FBDC3D-4A92-4050-BA53-39D2362C2776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComoSelecionaConstrutor", "ComoSelecionaConstrutor\ComoSelecionaConstrutor.csproj", "{B2398147-202E-4454-BE69-0B3F81753B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FBDC3D-4A92-4050-BA53-39D2362C2776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FBDC3D-4A92-4050-BA53-39D2362C2776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FBDC3D-4A92-4050-BA53-39D2362C2776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FBDC3D-4A92-4050-BA53-39D2362C2776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2398147-202E-4454-BE69-0B3F81753B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2398147-202E-4454-BE69-0B3F81753B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2398147-202E-4454-BE69-0B3F81753B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2398147-202E-4454-BE69-0B3F81753B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B4609C-A333-44D9-A6BD-034FB3F2FB9F}
+	EndGlobalSection
+EndGlobal

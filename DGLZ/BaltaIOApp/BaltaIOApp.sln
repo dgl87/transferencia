@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaltaIO", "BaltaIO\BaltaIO.csproj", "{8DC1DD88-A0EC-4781-BAD3-26DC3C7A4998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{F711894E-3258-4FFF-A423-35B4982B5755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC1DD88-A0EC-4781-BAD3-26DC3C7A4998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC1DD88-A0EC-4781-BAD3-26DC3C7A4998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC1DD88-A0EC-4781-BAD3-26DC3C7A4998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC1DD88-A0EC-4781-BAD3-26DC3C7A4998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F711894E-3258-4FFF-A423-35B4982B5755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F711894E-3258-4FFF-A423-35B4982B5755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F711894E-3258-4FFF-A423-35B4982B5755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F711894E-3258-4FFF-A423-35B4982B5755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A70C0FF9-E8F4-4DE7-A020-B27F0594F072}
+	EndGlobalSection
+EndGlobal

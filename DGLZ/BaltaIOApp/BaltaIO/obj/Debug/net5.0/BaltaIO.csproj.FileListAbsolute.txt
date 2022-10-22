@@ -1,0 +1,16 @@
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\bin\Debug\net5.0\BaltaIO.exe
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\bin\Debug\net5.0\BaltaIO.deps.json
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\bin\Debug\net5.0\BaltaIO.runtimeconfig.json
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\bin\Debug\net5.0\BaltaIO.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\bin\Debug\net5.0\BaltaIO.dll
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\bin\Debug\net5.0\BaltaIO.pdb
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\BaltaIO.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\BaltaIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\BaltaIO.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\BaltaIO.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\BaltaIO.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\BaltaIO.dll
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\refint\BaltaIO.dll
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\BaltaIO.pdb
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\BaltaIO.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\DGLZ\BaltaIOApp\BaltaIO\obj\Debug\net5.0\ref\BaltaIO.dll

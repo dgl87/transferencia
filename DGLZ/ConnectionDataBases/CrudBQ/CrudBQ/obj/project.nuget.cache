@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ksGMf0trZlGTwbNDPbu+fYHGrReUOffTQ6fJj8yasj94gU9oS0LiMjrlpr0SSZMmQL82rXAc9EfLEexEQWBLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Douglas\\Desktop\\Conectando no Banco\\CrudBQ\\CrudBQ\\CrudBQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.api.gax\\4.0.0\\google.api.gax.4.0.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.api.gax.rest\\4.0.0\\google.api.gax.rest.4.0.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.apis.bigquery.v2\\1.57.0.2718\\google.apis.bigquery.v2.1.57.0.2718.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\google.cloud.bigquery.v2\\3.1.0\\google.cloud.bigquery.v2.3.1.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Douglas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

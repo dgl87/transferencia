@@ -1,0 +1,16 @@
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\bin\Debug\netcoreapp3.1\TutorialHttpClient.exe
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\bin\Debug\netcoreapp3.1\TutorialHttpClient.deps.json
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\bin\Debug\netcoreapp3.1\TutorialHttpClient.runtimeconfig.json
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\bin\Debug\netcoreapp3.1\TutorialHttpClient.runtimeconfig.dev.json
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\bin\Debug\netcoreapp3.1\TutorialHttpClient.dll
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\bin\Debug\netcoreapp3.1\TutorialHttpClient.pdb
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\obj\Debug\netcoreapp3.1\TutorialHttpClient.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\obj\Debug\netcoreapp3.1\TutorialHttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\obj\Debug\netcoreapp3.1\TutorialHttpClient.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\obj\Debug\netcoreapp3.1\TutorialHttpClient.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\obj\Debug\netcoreapp3.1\TutorialHttpClient.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\obj\Debug\netcoreapp3.1\TutorialHttpClient.dll
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\obj\Debug\netcoreapp3.1\TutorialHttpClient.pdb
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\obj\Debug\netcoreapp3.1\TutorialHttpClient.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Douglas\Desktop\DGLZ\HttpClientFactory\TutorialHttpClient\obj\Debug\netcoreapp3.1\TutorialHttpClient.csproj.CopyComplete
